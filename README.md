@@ -34,6 +34,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 ## Array
 |  |
 | ------- |
+| [1470-shuffle-the-array](https://github.com/radhikagupta-31/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/radhikagupta-31/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
