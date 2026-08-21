@@ -31,4 +31,12 @@ This repository shows the number of leetcode problems solved by me using optimiz
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/radhikagupta-31/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Array
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/radhikagupta-31/Leetcode/tree/master/1920-build-array-from-permutation) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/radhikagupta-31/Leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
