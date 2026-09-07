@@ -23,14 +23,17 @@ This repository shows the number of leetcode problems solved by me using optimiz
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/radhikagupta-31/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1367-linked-list-in-binary-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/radhikagupta-31/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1367-linked-list-in-binary-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/radhikagupta-31/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1367-linked-list-in-binary-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -40,4 +43,8 @@ This repository shows the number of leetcode problems solved by me using optimiz
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/radhikagupta-31/Leetcode/tree/master/1920-build-array-from-permutation) |
+## Linked List
+|  |
+| ------- |
+| [1367-linked-list-in-binary-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
