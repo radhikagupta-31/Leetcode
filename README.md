@@ -11,6 +11,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/radhikagupta-31/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/radhikagupta-31/Leetcode/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -18,6 +19,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/radhikagupta-31/Leetcode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/radhikagupta-31/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
@@ -54,4 +56,8 @@ This repository shows the number of leetcode problems solved by me using optimiz
 |  |
 | ------- |
 | [0993-cousins-in-binary-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/0993-cousins-in-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/radhikagupta-31/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
