@@ -43,6 +43,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/radhikagupta-31/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/radhikagupta-31/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/radhikagupta-31/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/radhikagupta-31/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -74,6 +75,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/radhikagupta-31/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/radhikagupta-31/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
