@@ -61,10 +61,12 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [1470-shuffle-the-array](https://github.com/radhikagupta-31/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/radhikagupta-31/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1920-build-array-from-permutation](https://github.com/radhikagupta-31/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/radhikagupta-31/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/radhikagupta-31/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/radhikagupta-31/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Linked List
 |  |
 | ------- |
