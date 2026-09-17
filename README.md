@@ -9,6 +9,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [0003-longest-substring-without-repeating-characters](https://github.com/radhikagupta-31/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/radhikagupta-31/Leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/radhikagupta-31/Leetcode/tree/master/0268-missing-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/radhikagupta-31/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/radhikagupta-31/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/radhikagupta-31/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/radhikagupta-31/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Stack
 |  |
 | ------- |
@@ -56,6 +58,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [0485-max-consecutive-ones](https://github.com/radhikagupta-31/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/radhikagupta-31/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1470-shuffle-the-array](https://github.com/radhikagupta-31/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/radhikagupta-31/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1920-build-array-from-permutation](https://github.com/radhikagupta-31/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
@@ -83,6 +86,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/radhikagupta-31/Leetcode/tree/master/0268-missing-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/radhikagupta-31/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,4 +101,8 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/radhikagupta-31/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/radhikagupta-31/Leetcode/tree/master/0027-remove-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/radhikagupta-31/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
