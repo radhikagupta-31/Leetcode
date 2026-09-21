@@ -58,6 +58,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/radhikagupta-31/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/radhikagupta-31/Leetcode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/radhikagupta-31/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/radhikagupta-31/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhikagupta-31/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/radhikagupta-31/Leetcode/tree/master/0136-single-number) |
@@ -118,10 +119,15 @@ This repository shows the number of leetcode problems solved by me using optimiz
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/radhikagupta-31/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhikagupta-31/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/radhikagupta-31/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1208-get-equal-substrings-within-budget](https://github.com/radhikagupta-31/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/radhikagupta-31/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
