@@ -35,6 +35,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/radhikagupta-31/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0993-cousins-in-binary-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
@@ -42,6 +43,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/radhikagupta-31/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0993-cousins-in-binary-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
@@ -49,6 +51,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/radhikagupta-31/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0993-cousins-in-binary-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
@@ -83,6 +86,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/0100-same-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Bracket Sequences
 |  |
