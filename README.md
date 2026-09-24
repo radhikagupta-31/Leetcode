@@ -37,6 +37,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/radhikagupta-31/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0993-cousins-in-binary-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
@@ -53,6 +54,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/radhikagupta-31/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0993-cousins-in-binary-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
@@ -64,6 +66,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [0027-remove-element](https://github.com/radhikagupta-31/Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/radhikagupta-31/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/radhikagupta-31/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhikagupta-31/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/radhikagupta-31/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/radhikagupta-31/Leetcode/tree/master/0268-missing-number) |
@@ -136,4 +139,9 @@ This repository shows the number of leetcode problems solved by me using optimiz
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/radhikagupta-31/Leetcode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
