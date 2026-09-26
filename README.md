@@ -77,6 +77,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/radhikagupta-31/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1920-build-array-from-permutation](https://github.com/radhikagupta-31/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/radhikagupta-31/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3978-unique-middle-element](https://github.com/radhikagupta-31/Leetcode/tree/master/3978-unique-middle-element) |
 ## Simulation
 |  |
 | ------- |
@@ -144,4 +145,8 @@ This repository shows the number of leetcode problems solved by me using optimiz
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [3978-unique-middle-element](https://github.com/radhikagupta-31/Leetcode/tree/master/3978-unique-middle-element) |
 <!---LeetCode Topics End-->
