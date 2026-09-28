@@ -20,6 +20,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [0125-valid-palindrome](https://github.com/radhikagupta-31/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/radhikagupta-31/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1208-get-equal-substrings-within-budget](https://github.com/radhikagupta-31/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/radhikagupta-31/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/radhikagupta-31/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -34,6 +35,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | ------- |
 | [0020-valid-parentheses](https://github.com/radhikagupta-31/Leetcode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/radhikagupta-31/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/radhikagupta-31/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/radhikagupta-31/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Tree
 |  |
@@ -100,6 +102,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/radhikagupta-31/Leetcode/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/radhikagupta-31/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
 | ------- |
