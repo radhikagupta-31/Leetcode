@@ -8,6 +8,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/radhikagupta-31/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/radhikagupta-31/Leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/radhikagupta-31/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/radhikagupta-31/Leetcode/tree/master/0268-missing-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/radhikagupta-31/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## String
@@ -74,6 +75,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/radhikagupta-31/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhikagupta-31/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/radhikagupta-31/Leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/radhikagupta-31/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/radhikagupta-31/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/radhikagupta-31/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/radhikagupta-31/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -127,6 +129,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/radhikagupta-31/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/radhikagupta-31/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/radhikagupta-31/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
