@@ -10,6 +10,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [0013-roman-to-integer](https://github.com/radhikagupta-31/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/radhikagupta-31/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/radhikagupta-31/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/radhikagupta-31/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/radhikagupta-31/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## String
 |  |
@@ -79,6 +80,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [0136-single-number](https://github.com/radhikagupta-31/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/radhikagupta-31/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/radhikagupta-31/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/radhikagupta-31/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/radhikagupta-31/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/radhikagupta-31/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/radhikagupta-31/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -121,6 +123,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/radhikagupta-31/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/radhikagupta-31/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/radhikagupta-31/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/radhikagupta-31/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Bit Manipulation
@@ -134,6 +137,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [0088-merge-sorted-array](https://github.com/radhikagupta-31/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/radhikagupta-31/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/radhikagupta-31/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/radhikagupta-31/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhikagupta-31/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Two Pointers
 |  |
@@ -143,6 +147,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [0088-merge-sorted-array](https://github.com/radhikagupta-31/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/radhikagupta-31/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/radhikagupta-31/Leetcode/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/radhikagupta-31/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/radhikagupta-31/Leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
