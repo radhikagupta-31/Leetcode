@@ -12,6 +12,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [0268-missing-number](https://github.com/radhikagupta-31/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/radhikagupta-31/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/radhikagupta-31/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/radhikagupta-31/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
 | ------- |
@@ -92,6 +93,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [1920-build-array-from-permutation](https://github.com/radhikagupta-31/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/radhikagupta-31/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhikagupta-31/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/radhikagupta-31/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/radhikagupta-31/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3978-unique-middle-element](https://github.com/radhikagupta-31/Leetcode/tree/master/3978-unique-middle-element) |
 ## Simulation
@@ -182,4 +184,12 @@ This repository shows the number of leetcode problems solved by me using optimiz
 |  |
 | ------- |
 | [3978-unique-middle-element](https://github.com/radhikagupta-31/Leetcode/tree/master/3978-unique-middle-element) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/radhikagupta-31/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/radhikagupta-31/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
