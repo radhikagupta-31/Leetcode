@@ -123,6 +123,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | ------- |
 | [0009-palindrome-number](https://github.com/radhikagupta-31/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/radhikagupta-31/Leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/radhikagupta-31/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/radhikagupta-31/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/radhikagupta-31/Leetcode/tree/master/0268-missing-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/radhikagupta-31/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -167,6 +168,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/radhikagupta-31/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/radhikagupta-31/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhikagupta-31/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/radhikagupta-31/Leetcode/tree/master/0392-is-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/radhikagupta-31/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -196,4 +198,8 @@ This repository shows the number of leetcode problems solved by me using optimiz
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/radhikagupta-31/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/radhikagupta-31/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
