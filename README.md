@@ -28,6 +28,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [0917-reverse-only-letters](https://github.com/radhikagupta-31/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/radhikagupta-31/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/radhikagupta-31/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/radhikagupta-31/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/radhikagupta-31/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -102,6 +103,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/radhikagupta-31/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/radhikagupta-31/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/radhikagupta-31/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/radhikagupta-31/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
