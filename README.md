@@ -12,6 +12,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [0242-valid-anagram](https://github.com/radhikagupta-31/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/radhikagupta-31/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/radhikagupta-31/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/radhikagupta-31/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/radhikagupta-31/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/radhikagupta-31/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
@@ -26,6 +27,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [0242-valid-anagram](https://github.com/radhikagupta-31/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/radhikagupta-31/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/radhikagupta-31/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/radhikagupta-31/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/radhikagupta-31/Leetcode/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/radhikagupta-31/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/radhikagupta-31/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
@@ -194,6 +196,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/radhikagupta-31/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3978-unique-middle-element](https://github.com/radhikagupta-31/Leetcode/tree/master/3978-unique-middle-element) |
 ## Binary Indexed Tree
 |  |
@@ -207,4 +210,8 @@ This repository shows the number of leetcode problems solved by me using optimiz
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/radhikagupta-31/Leetcode/tree/master/0070-climbing-stairs) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/radhikagupta-31/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
