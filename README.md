@@ -31,6 +31,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [0383-ransom-note](https://github.com/radhikagupta-31/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/radhikagupta-31/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/radhikagupta-31/Leetcode/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/radhikagupta-31/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/radhikagupta-31/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/radhikagupta-31/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/radhikagupta-31/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -52,6 +53,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | ------- |
 | [0020-valid-parentheses](https://github.com/radhikagupta-31/Leetcode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/radhikagupta-31/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/radhikagupta-31/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/radhikagupta-31/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/radhikagupta-31/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Tree
@@ -111,6 +113,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/radhikagupta-31/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/radhikagupta-31/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/radhikagupta-31/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/radhikagupta-31/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -177,6 +180,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [0345-reverse-vowels-of-a-string](https://github.com/radhikagupta-31/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/radhikagupta-31/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/radhikagupta-31/Leetcode/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/radhikagupta-31/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/radhikagupta-31/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/radhikagupta-31/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/radhikagupta-31/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
