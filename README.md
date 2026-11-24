@@ -37,6 +37,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/radhikagupta-31/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/radhikagupta-31/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/radhikagupta-31/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/radhikagupta-31/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/radhikagupta-31/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/radhikagupta-31/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -55,6 +56,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [0144-binary-tree-preorder-traversal](https://github.com/radhikagupta-31/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/radhikagupta-31/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/radhikagupta-31/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/radhikagupta-31/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/radhikagupta-31/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Tree
 |  |
@@ -117,6 +119,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [1920-build-array-from-permutation](https://github.com/radhikagupta-31/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/radhikagupta-31/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/radhikagupta-31/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/radhikagupta-31/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/radhikagupta-31/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
