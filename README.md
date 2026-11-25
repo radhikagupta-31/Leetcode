@@ -33,6 +33,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [0392-is-subsequence](https://github.com/radhikagupta-31/Leetcode/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/radhikagupta-31/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/radhikagupta-31/Leetcode/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/radhikagupta-31/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/radhikagupta-31/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/radhikagupta-31/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/radhikagupta-31/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -55,6 +56,7 @@ This repository shows the number of leetcode problems solved by me using optimiz
 | [0020-valid-parentheses](https://github.com/radhikagupta-31/Leetcode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/radhikagupta-31/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/radhikagupta-31/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/radhikagupta-31/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/radhikagupta-31/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/radhikagupta-31/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/radhikagupta-31/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
